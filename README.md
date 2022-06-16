@@ -16,9 +16,7 @@
 
 ---
 
-<p align="center"> Hola soy Marco
-    <br> 
-</p>
+
 
 ## 📝 Table of Contents
 
