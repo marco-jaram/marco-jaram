@@ -5,7 +5,7 @@
   <a href="" rel="noopener">
  <!-- <img width=100% height=100% src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/header1200-min.png"> -->
 
-<iframe src="https://giphy.com/embed/d9RbxjZ8QXesiYoerE" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-d9RbxjZ8QXesiYoerE"></a>
+<img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/githubgif.gif">
 </p>
 
 <div align="center">
@@ -18,7 +18,6 @@
 </div>
 
 ---
-
 
 
 ## 🧐 About <a name = "about"></a>
