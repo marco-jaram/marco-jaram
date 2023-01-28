@@ -22,7 +22,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Actualmente estudio Ingenieria en softwear en Mexico. Soy profesor de filosoifa a nivel licenciatura. /
+Actualmente estudio Ingenieria en softwear en Mexico. Soy profesor de filosofia a nivel licenciatura. /
 I am currently studying Softwear Engineering in Mexico. I am a professor of philosophy at the undergraduate level.
 
 ## 😍 Intereses <a name = "Skills"></a>
