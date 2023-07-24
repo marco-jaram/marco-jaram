@@ -32,19 +32,18 @@
 * Control de versiones con Git: Durante mi formación, utilicé Git para mantener un flujo de trabajo ordenado y transparente.
 
 ## 😍 Intereses <a name = "Skills"></a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
-    alt="java" style="max-width: 100%;" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
+alt="java" style="max-width: 100%;" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"
-            alt="spring" style="max-width: 100%;" width="40" height="40"> 
+alt="spring" style="max-width: 100%;" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            style="max-width: 100%;" width="40" height="40">  
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
-            alt="angular" style="max-width: 100%;" width="40" height="40"> 
+style="max-width: 100%;" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
+alt="angular" style="max-width: 100%;" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"
-            alt="mysql" style="max-width: 100%;" width="40" height="40"> 
+alt="mysql" style="max-width: 100%;" width="40" height="40"> 
 <img src="https://camo.githubusercontent.com/79e22b9addf6d08bc708491678c6fd4cc3f3b14fc1298d06ed30cbb44992edd0/68747470733a2f2f692e706f7374696d672e63632f4b5959526b7174562f5465726d696e616c69636f6e322e706e67"
-            alt="react"  style="max-width: 100%;"
-            width="40" height="40"> 
+alt="react"  style="max-width: 100%;" width="40" height="40"> 
             
 
 ## ⛏️ Contacto <a name = "built_using"></a>
