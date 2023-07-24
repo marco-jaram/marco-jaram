@@ -48,8 +48,8 @@ alt="react"  style="max-width: 100%;" width="40" height="40">
 
 ## ⛏️ Contacto <a name = "built_using"></a>
 
-[linkedin](www.linkedin.com/in/marcojaram)
-[instagram](https://www.instagram.com/m_jaram)
+www.linkedin.com/in/marcojaram
+https://www.instagram.com/m_jaram
 
 
 
