@@ -23,13 +23,13 @@
 ## 🧐 About <a name = "about"></a>
 
 ¡Hola! 👋 Estoy por egresar como Ingeniero en Software, entusiasmado por embarcarme en mi carrera profesional en el mundo del desarrollo de aplicaciones web. Mi enfoque principal se centra en el desarrollo utilizando tecnologías basadas en Java, y tengo conocimiento sobre el framework Spring Boot y el uso de JPA para una gestión de bases de datos sólida y efectiva.
-🔧 Habilidades técnicas destacadas:
+  * 🔧 Habilidades técnicas destacadas:
 
-Desarrollo de aplicaciones web con Java y Spring Boot: Adquirí experiencia durante mi formación universitaria y en proyectos académicos, lo que me permite diseñar soluciones web.
-Conocimientos en JPA: Durante mis estudios, aprendí a trabajar con Java Persistence API (JPA) para gestionar bases de datos de manera eficiente y segura.
-Entornos Linux: Me siento cómodo trabajando en sistemas operativos Linux y aprovechando sus ventajas para crear soluciones estables y confiables: Ubuntu, Fedora, Arch Linux
-Bases de datos SQL: Adquirí habilidades en el diseño y la optimización de consultas SQL para asegurar un rendimiento óptimo en las aplicaciones.
-Control de versiones con Git: Durante mi formación, utilicé Git para mantener un flujo de trabajo ordenado y transparente.
+* Desarrollo de aplicaciones web con Java y Spring Boot: Adquirí experiencia durante mi formación universitaria y en proyectos académicos, lo que me permite diseñar soluciones web.
+* Conocimientos en JPA: Durante mis estudios, aprendí a trabajar con Java Persistence API (JPA) para gestionar bases de datos de manera eficiente y segura.
+* Entornos Linux: Me siento cómodo trabajando en sistemas operativos Linux y aprovechando sus ventajas para crear soluciones estables y confiables: Ubuntu, Fedora, Arch Linux
+* Bases de datos SQL: Adquirí habilidades en el diseño y la optimización de consultas SQL para asegurar un rendimiento óptimo en las aplicaciones.
+* Control de versiones con Git: Durante mi formación, utilicé Git para mantener un flujo de trabajo ordenado y transparente.
 
 ## 😍 Intereses <a name = "Skills"></a>
 - Linux
