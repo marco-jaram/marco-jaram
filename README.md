@@ -32,31 +32,20 @@
 * Control de versiones con Git: Durante mi formación, utilicé Git para mantener un flujo de trabajo ordenado y transparente.
 
 ## 😍 Intereses <a name = "Skills"></a>
- <a href="https://www.w3schools.com/cs/" rel="nofollow"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.linux.org/" rel="nofollow"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://www.python.org" rel="nofollow"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40"> </a> <a href="https://reactjs.org/" rel="nofollow"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="max-width: 100%;" width="40" height="40"> </a><a href="https://es.wikipedia.org/wiki/Bash" rel="nofollow"> 
-           <img src="https://camo.githubusercontent.com/79e22b9addf6d08bc708491678c6fd4cc3f3b14fc1298d06ed30cbb44992edd0/68747470733a2f2f692e706f7374696d672e63632f4b5959526b7174562f5465726d696e616c69636f6e322e706e67" alt="react" data-canonical-src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" style="max-width: 100%;" width="40" height="40"> </a> 
-           
-- Linux
- <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/archlogo.png">
- <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/python.png">
-  <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/webpack.png">
-## 🚀 Skills <a name = "Skills"></a>
-
- <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/java.png">
- <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/sql.png">
-  <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/mysql2.png">
-   <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/js.png">
-    <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/html.png">
-     <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/css.png">
-      <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/git.png">
-       <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/mariadb.png"> 
-       <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/vim.png">
-        <img width=150 src="https://github.com/marco-jaram/marco-jaram/blob/main/iconos/vsc.png?raw=true">
-         <img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/iconos/linixpiguino.png">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
+    alt="java" style="max-width: 100%;" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg"
+            alt="spring" style="max-width: 100%;" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            style="max-width: 100%;" width="40" height="40">  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg"
+            alt="angular" style="max-width: 100%;" width="40" height="40"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"
+            alt="mysql" style="max-width: 100%;" width="40" height="40"> 
+<img src="https://camo.githubusercontent.com/79e22b9addf6d08bc708491678c6fd4cc3f3b14fc1298d06ed30cbb44992edd0/68747470733a2f2f692e706f7374696d672e63632f4b5959526b7174562f5465726d696e616c69636f6e322e706e67"
+            alt="react"  style="max-width: 100%;"
+            width="40" height="40"> 
+            
 
 ## ⛏️ Contacto <a name = "built_using"></a>
 
