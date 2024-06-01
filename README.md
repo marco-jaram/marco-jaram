@@ -59,18 +59,17 @@ Soy un Ingeniero de Software recién egresado con un fuerte interés en Java y d
 - Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
 - [Sitio web](https://webllocalapp.netlify.app/)
 
-### Profesor en Universidad Autónoma de Baja California
-**Febrero 2013 - Mayo 2024**
 
-- Fomento del aprendizaje autónomo de los estudiantes.
-- Cursos impartidos: Epistemología, Filosofía contemporánea y Filosofía de las matemáticas.
+## Estudios
+- **Licenciatura en Ingeniería de Software**
+- **Licenciatura en Filosofía**
 
 
 ## Habilidades
 
 - **Lenguajes de Programación:** Java, HTML5, CSS, JavaScript
-- **Frameworks y Tecnologías:** Spring Boot, Spring Cloud, Microservicios, Docker, ASTRO
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+- **Frameworks y Tecnologías:** Spring Boot, Spring Cloud, Docker, ASTRO, GIT
+- **Bases de Datos:** MySQL, PostgreSQL MongoDB
 
 ## Idiomas
 
