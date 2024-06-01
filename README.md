@@ -28,7 +28,7 @@ Soy un Ingeniero de Software recién egresado con un fuerte interés en Java y d
 
 ## Proyectos
 
- ### Spring Boot Micro Servicios
+ ### Spring Boot Micro Servicios (en cusro)
 
 - Desarrollo de Microservicios con Spring Cloud y Spring Boot.
 - Desarrollo de API REST con Spring Boot.
