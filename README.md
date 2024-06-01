@@ -69,7 +69,7 @@ Soy un Ingeniero de Software recién egresado con un fuerte interés en Java y d
 
 - **Lenguajes de Programación:** Java, HTML5, CSS, JavaScript
 - **Frameworks y Tecnologías:** Spring Boot, Spring Cloud, Docker, ASTRO, GIT
-- **Bases de Datos:** MySQL, PostgreSQL MongoDB
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 
 ## Idiomas
 
