@@ -5,7 +5,7 @@
   <a href="" rel="noopener">
  <!-- <img width=100% height=100% src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/header1200-min.png"> -->
 
-<img width=150 src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/githubgif.gif">
+<img  src="/img/banner.png">
 </p>
 
 <div align="center">
