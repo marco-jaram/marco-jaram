@@ -20,7 +20,7 @@
 ---
 
 
-## About <a name = "about"></a>
+
 
 ## 🧐 Sobre mí
 
