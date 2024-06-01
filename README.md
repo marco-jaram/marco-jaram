@@ -24,7 +24,9 @@
 
 ## 🧐 Sobre mí
 
-Soy un Ingeniero de Software recién egresado con un fuerte interés en Java y desarrollo web. Poseo una gran capacidad de adaptación a diversos entornos y siempre me esfuerzo por dar lo mejor de mí. Me destaco por mi habilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. Busco una oportunidad laboral que me permita adquirir más experiencia y crecer profesionalmente.
+Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Me destaco por mi capacidad de adaptación, trabajo en equipo y aprendizaje continuo. Además, mi experiencia como docente universitario en filosofía me ha dotado de habilidades en comunicación y análisis crítico. Busco una oportunidad para aplicar y expandir mis conocimientos en el desarrollo de software.
+
+
 
 ## Proyectos
 
