@@ -20,16 +20,62 @@
 ---
 
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
-¡Hola! 👋 Estoy por egresar como Ingeniero en Software, entusiasmado por embarcarme en mi carrera profesional en el mundo del desarrollo de aplicaciones web. Mi enfoque principal se centra en el desarrollo utilizando tecnologías basadas en Java, y tengo conocimiento sobre el framework Spring Boot y el uso de JPA para una gestión de bases de datos sólida y efectiva.
-  * 🔧 Habilidades técnicas destacadas:
+## 🧐 Sobre mí
 
-* Desarrollo de aplicaciones web con Java y Spring Boot: Adquirí experiencia durante mi formación universitaria y en proyectos académicos, lo que me permite diseñar soluciones web.
-* Conocimientos en JPA: Durante mis estudios, aprendí a trabajar con Java Persistence API (JPA) para gestionar bases de datos de manera eficiente y segura.
-* Entornos Linux: Me siento cómodo trabajando en sistemas operativos Linux y aprovechando sus ventajas para crear soluciones estables y confiables: Ubuntu, Fedora, Arch Linux
-* Bases de datos SQL: Adquirí habilidades en el diseño y la optimización de consultas SQL para asegurar un rendimiento óptimo en las aplicaciones.
-* Control de versiones con Git: Durante mi formación, utilicé Git para mantener un flujo de trabajo ordenado y transparente.
+Soy un Ingeniero de Software recién egresado con un fuerte interés en Java y desarrollo web. Poseo una gran capacidad de adaptación a diversos entornos y siempre me esfuerzo por dar lo mejor de mí. Me destaco por mi habilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. Busco una oportunidad laboral que me permita adquirir más experiencia y crecer profesionalmente.
+
+## Proyectos
+
+ ### Spring Boot Micro Servicios
+
+- Desarrollo de Microservicios con Spring Cloud y Spring Boot.
+- Desarrollo de API REST con Spring Boot.
+- Creación de imágenes y contenedores con Docker para microservicios.
+- Seguridad en microservicios con OAUTH 2 y JWT.
+- Trazabilidad distribuida con Zipkin y OpenTelemetry.
+- [Código disponible en GitHub](https://github.com/marco-jaram/MicroService-SpringBoot)
+
+### Desarrollo de CRUD-Api en Mtec
+**Enero 2023 - Febrero 2023**
+
+- Aplicación para gestión de catálogo de una librería utilizando MySQL.
+- Diseño de CRUD según especificaciones oficiales de Spring Boot.
+- Implementación con Java, Spring Boot y Maven.
+- Testeado con Postman.
+- [Código disponible en GitHub](https://github.com/marco-jaram/LibroCrud2)
+- [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
+
+### Desarrollador Web en La Vida es Medicina
+**Octubre 2022 - Febrero 2023**
+
+- Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
+- [Sitio web](https://lavidaesmedicina.com/)
+
+### Desarrollador Web Freelancer en WeblocalMX
+**Enero 2019 - Enero 2020**
+
+- Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
+- [Sitio web](https://webllocalapp.netlify.app/)
+
+### Profesor en Universidad Autónoma de Baja California
+**Febrero 2013 - Mayo 2024**
+
+- Fomento del aprendizaje autónomo de los estudiantes.
+- Cursos impartidos: Epistemología, Filosofía contemporánea y Filosofía de las matemáticas.
+
+
+## Habilidades
+
+- **Lenguajes de Programación:** Java, HTML5, CSS, JavaScript
+- **Frameworks y Tecnologías:** Spring Boot, Spring Cloud, Microservicios, Docker, ASTRO
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+
+## Idiomas
+
+- **Español:** Nativo
+- **Inglés:** Intermedio
 
 ## 😍 Intereses <a name = "Skills"></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
