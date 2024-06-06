@@ -39,7 +39,7 @@ Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Duran
 - Trazabilidad distribuida con Zipkin y OpenTelemetry.
 - [Código disponible en GitHub](https://github.com/marco-jaram/MicroService-SpringBoot)
 
-### Desarrollo de CRUD-Api en Mtec
+### Desarrollo de CRUD-Api 
 **Enero 2023 - Febrero 2023**
 
 - Aplicación para gestión de catálogo de una librería utilizando MySQL.
@@ -49,13 +49,13 @@ Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Duran
 - [Código disponible en GitHub](https://github.com/marco-jaram/LibroCrud2)
 - [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
 
-### Desarrollador Web en La Vida es Medicina
+### Desarrollador Web en La Vida es Medicina Freelancer
 **Octubre 2022 - Febrero 2023**
 
 - Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
 - [Sitio web](https://lavidaesmedicina.com/)
 
-### Desarrollador Web Freelancer en WeblocalMX
+### Desarrollador Web Freelancer 
 **Enero 2019 - Enero 2020**
 
 - Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
