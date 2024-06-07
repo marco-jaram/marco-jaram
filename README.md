@@ -38,6 +38,21 @@ Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Duran
 - Seguridad en microservicios con OAUTH 2 y JWT.
 - Trazabilidad distribuida con Zipkin y OpenTelemetry.
 - [Código disponible en GitHub](https://github.com/marco-jaram/MicroService-SpringBoot)
+---
+
+### Desarrollo de CRUD-API para novatos 2024
+
+**Video tutorial**
+
+- Aplicación para la gestión de una colección de libros utilizando MySQL.
+- Diseño de CRUD siguiendo las especificaciones oficiales de Spring Boot.
+- Implementación con Java, Spring Boot y Maven.
+- Testeado con Postman.
+- [Código disponible en GitHub](https://github.com/marco-jaram/CRUD-BASICO-SPRING-BOOT)
+- [Video tutorial en YouTube](https://www.youtube.com/watch?v=6A_0IExjVDE)
+
+---
+
 
 ### Desarrollo de CRUD-Api 
 **Enero 2023 - Febrero 2023**
@@ -48,13 +63,14 @@ Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Duran
 - Testeado con Postman.
 - [Código disponible en GitHub](https://github.com/marco-jaram/LibroCrud2)
 - [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
+---
 
 ### Desarrollador Web en La Vida es Medicina Freelancer
 **Octubre 2022 - Febrero 2023**
 
 - Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
 - [Sitio web](https://lavidaesmedicina.com/)
-
+---
 ### Desarrollador Web Freelancer 
 **Enero 2019 - Enero 2020**
 
@@ -95,8 +111,9 @@ alt="react"  style="max-width: 100%;" width="40" height="40">
 
 ## ⛏️ Contacto <a name = "built_using"></a>
 
-* www.linkedin.com/in/marcojaram
-* https://www.instagram.com/m_jaram
+https://www.linkedin.com/in/marcojaram/
+
+marco.jaramillocast@gmail.com
 
 
 
