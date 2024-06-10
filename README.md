@@ -1,5 +1,5 @@
 
-<h3 align="center">🇲🇽</h3>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hola+%F0%9F%91%8B%2C+Soy+Marco" alt="Typing SVG">
