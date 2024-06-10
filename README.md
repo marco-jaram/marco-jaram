@@ -30,9 +30,8 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 ## Proyectos
 
-### Desarrollo de CRUD-API para novatos 2024
-
-**Video tutorial**
+### Desarrollo de CRUD-API para novatos. Video tutorial.
+**2024 junio**
 
 - Aplicación para la gestión de una colección de libros utilizando MySQL.
 - Diseño de CRUD siguiendo las especificaciones oficiales de Spring Boot.
@@ -44,7 +43,7 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 ---
 
 
-### Desarrollo de CRUD-Api 
+### Desarrollo de CRUD-Api. 
 **Enero 2023 - Febrero 2023**
 
 - Aplicación para gestión de catálogo de una librería utilizando MySQL.
@@ -55,13 +54,13 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 - [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
 ---
 
-### Desarrollador Web Site estático
+### Desarrollador Web Site estático.
 **Octubre 2022 - Febrero 2023**
 
 - Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
 - [Sitio web](https://lavidaesmedicina.com/)
 ---
-### Desarrollador Web Site estático 
+### Desarrollador Web Site estático. 
 **Enero 2019 - Enero 2020**
 
 - Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
