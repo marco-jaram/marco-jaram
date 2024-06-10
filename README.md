@@ -30,16 +30,6 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 ## Proyectos
 
- ### Spring Boot Micro Servicios (en curso)
-
-- Desarrollo de Microservicios con Spring Cloud y Spring Boot.
-- Desarrollo de API REST con Spring Boot.
-- Creación de imágenes y contenedores con Docker para microservicios.
-- Seguridad en microservicios con OAUTH 2 y JWT.
-- Trazabilidad distribuida con Zipkin y OpenTelemetry.
-- [Código disponible en GitHub](https://github.com/marco-jaram/MicroService-SpringBoot)
----
-
 ### Desarrollo de CRUD-API para novatos 2024
 
 **Video tutorial**
@@ -65,13 +55,13 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 - [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
 ---
 
-### Desarrollador Web en La Vida es Medicina Freelancer
+### Desarrollador Web Site estático
 **Octubre 2022 - Febrero 2023**
 
 - Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
 - [Sitio web](https://lavidaesmedicina.com/)
 ---
-### Desarrollador Web Freelancer 
+### Desarrollador Web Site estático 
 **Enero 2019 - Enero 2020**
 
 - Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
@@ -79,9 +69,10 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 
 ## Estudios
-- **Licenciatura en Ingeniería de Software**
+- **Ingeniería de Software**
+- 2021-2024
 - **Licenciatura en Filosofía**
-
+- 1997-2021
 
 ## Habilidades
 
