@@ -1,6 +1,10 @@
 
-<h3 align="center">Hola soy Marco</h3>
-
+<h3 align="center">🇲🇽</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hi+%F0%9F%91%8B%2C+I'm+Marco+Jaramillo" alt="Typing SVG">
+  </a>
+</h1>
 <p align="center">
   <a href="" rel="noopener">
  <!-- <img width=100% height=100% src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/header1200-min.png"> -->
@@ -28,7 +32,7 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 
 
-## Proyectos
+## 🤖 Proyectos
 
 ### Desarrollo de CRUD-API para novatos. Video tutorial.
 **2024 junio**
@@ -67,13 +71,13 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 - [Sitio web](https://webllocalapp.netlify.app/)
 
 
-## Estudios
+## 👨‍🎓 Estudios
 - **Ingeniería en Software**
 - 2021-2024
 - **Licenciatura en Filosofía**
 - 1997-2021
 
-## Habilidades
+## 🥷 Habilidades
 
 - **Lenguajes de Programación:** Java, JavaScript
 - **Lenguajes de Marcado y Estilo:** HTML5, CSS3
@@ -81,10 +85,10 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 
 
-## Idiomas
+## 🫶 Idiomas
 
-- **Español:** Nativo
-- **Inglés:** Intermedio
+- **🇲🇽 Español:** Nativo
+- **🇺🇸 Inglés:** Intermedio
 
 ## 😍 Intereses <a name = "Skills"></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"
