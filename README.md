@@ -6,25 +6,8 @@
   </a>
 </h1>
 <p align="center">
-  <a href="" rel="noopener">
- <!-- <img width=100% height=100% src="https://raw.githubusercontent.com/marco-jaram/marco-jaram/main/img/header1200-min.png"> -->
-
 <img  src="./img/banner.png">
 </p>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/marco-jaram)
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/marco-jaram)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/marco-jaram)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
----
-
-
-
 
 ## 🧐 Sobre mí
 
