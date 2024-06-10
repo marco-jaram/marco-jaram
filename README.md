@@ -68,7 +68,7 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 
 ## Estudios
-- **Ingeniería de Software**
+- **Ingeniería en Software**
 - 2021-2024
 - **Licenciatura en Filosofía**
 - 1997-2021
