@@ -76,9 +76,11 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 ## Habilidades
 
-- **Lenguajes de Programación:** Java, HTML5, CSS, JavaScript
-- **Frameworks y Tecnologías:** Spring Boot, Spring Cloud, Docker, ASTRO, GIT
+- **Lenguajes de Programación:** Java, JavaScript
+- **Lenguajes de Marcado y Estilo:** HTML5, CSS3
+- **Frameworks y Tecnologías:** Spring Boot, Docker, ASTRO, GIT
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+
 
 ## Idiomas
 
