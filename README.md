@@ -24,7 +24,7 @@
 
 ## 🧐 Sobre mí
 
-Soy Ingeniero de Software con un fuerte interés en Java y desarrollo web. Durante mi carrera, utilicé Java como principal lenguaje de aprendizaje y he realizado cursos adicionales para actualizar y ampliar mis capacidades. Me destaco por mi capacidad de adaptación, trabajo en equipo y aprendizaje continuo. Además, mi experiencia como docente universitario en filosofía me ha dotado de habilidades en comunicación y análisis crítico. Busco una oportunidad para aplicar y expandir mis conocimientos en el desarrollo de software.
+Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Java. He utilizado Java como mi principal lenguaje de programación a lo largo de mi carrera y he realizado cursos adicionales para actualizar y ampliar mis habilidades. Mi experiencia como docente me ha dotado de habilidades en enseñanza, exposición y análisis lógico. Aspiro a unirme a proyectos donde pueda aplicar y expandir mis conocimientos en Java.
 
 
 
