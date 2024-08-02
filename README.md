@@ -17,6 +17,15 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 ## 🤖 Proyectos
 
+### Aplicación de gestión de clientes diseñada para ayudar a administrar la información de los pacientes y sus visitas de manera eficiente.
+
+- Backend con Java, Spring Boot, Mysql y Maven.
+- Frontend con Html, css, js.
+- [Código disponible en GitHub](https://github.com/marco-jaram/OpticaGestionPacientesDemo)
+- [Video muestra en YouTube](https://youtu.be/Zy_cPCl8d9Y)
+
+---
+
 ### Desarrollo de CRUD-API para novatos. Video tutorial.
 **2024 junio**
 
