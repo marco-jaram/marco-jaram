@@ -29,8 +29,8 @@ No necesita internet ni instalación complicada: corre localmente desde tu naveg
 
 🧑‍🔧 La comparto con quien la quiera instalar en su PC. Ideal si trabajas de forma independiente o simplemente quieres llevar un mejor control de tus finanzas personales.
 
-- 🔗 [Ver repositorio en GitHub](https://github.com/tu-usuario/control-finanzas)
-- 💾 [Descargar instalador .exe para Windows](https://drive.google.com/uc?export=download&id=ID_DEL_ARCHIVO)
+- 🔗 [Ver repositorio en GitHub](https://github.com/marco-jaram/ControlFinanzasPersonales)
+- 💾 [Descargar instalador .exe para Windows](https://github.com/marco-jaram/ControlFinanzasPersonaslesInstalador/releases/tag/v1.0.0)
 
 
 
