@@ -1,23 +1,48 @@
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hola+%F0%9F%91%8B%2C+Soy+Marco" alt="Typing SVG">
-  </a>
-</h1>
-<p align="center">
-<img  src="./img/banner.png">
-</p>
+
 
 ## 🧐 Sobre mí
 
-Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Java. He utilizado Java como mi principal lenguaje de programación a lo largo de mi carrera y he realizado cursos adicionales para actualizar y ampliar mis habilidades. Mi experiencia como docente me ha dotado de habilidades en enseñanza, exposición y análisis lógico. Aspiro a unirme a proyectos donde pueda aplicar y expandir mis conocimientos en Java.
+Desarrollador de software con enfoque web y especialización en backend.
+Experiencia con Java y Spring Boot, así como con PHP y Laravel, en la creación de soluciones digitales funcionales, claras y fáciles de mantener.
+Combino buenas prácticas de programación con atención al detalle para entregar software útil, estable y adaptable a diferentes contextos.
+Me especializo en el desarrollo backend, priorizando la calidad técnica, la escalabilidad y la experiencia del usuario.
+Busco seguir creando herramientas que realmente sirvan y reflejen un alto nivel profesional.
 
 
 
-## 🤖 Proyectos
 
-### Aplicación de gestión de clientes diseñada para ayudar a administrar la información de los pacientes y sus visitas de manera eficiente.
+## 🤖 Ultimos proyectos
+
+### Control de Finanzas Personales 🧾💰
+
+Una herramienta sencilla para llevar el registro de tus ingresos y egresos desde tu PC.
+
+- 🔹 Filtro por mes  
+- 🔹 Vista rápida de ingresos, egresos y balance  
+- 🔹 Agregado de movimientos por tipo (ingreso o egreso), categoría, concepto y monto  
+- 🔹 Todo se actualiza automáticamente en una tabla desde el navegador  
+
+La app está hecha con **Java**, **Spring Boot**, **H2** y **Thymeleaf**.  
+No necesita internet ni instalación complicada: corre localmente desde tu navegador.
+
+🧑‍🔧 La comparto con quien la quiera instalar en su PC. Ideal si trabajas de forma independiente o simplemente quieres llevar un mejor control de tus finanzas personales.
+
+- 🔗 [Ver repositorio en GitHub](https://github.com/tu-usuario/control-finanzas)
+- 💾 [Descargar instalador .exe para Windows](https://drive.google.com/uc?export=download&id=ID_DEL_ARCHIVO)
+
+
+
+### WebApp para Gestión de Leads CRM diseñada para facilitar el manejo eficiente de prospectos y conversiones.
+
+- Backend con **Java**, **Spring Boot** y **Thymeleaf**.  
+- Frontend con **HTML**, **CSS** y **JavaScript**.  
+- [Código disponible en GitHub](https://github.com/tu-enlace-aqui)  
+- [Video muestra en YouTube](https://youtu.be/tu-video-aqui)
+
+
+### Aplicación de gestión de clientes CRM diseñada para ayudar a administrar la información de los pacientes y sus visitas de manera eficiente.
 
 - Backend con Java, Spring Boot, Mysql y Maven.
 - Frontend con Html, css, js.
@@ -39,29 +64,6 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 ---
 
 
-### Desarrollo de CRUD-Api. 
-**Enero 2023 - Febrero 2023**
-
-- Aplicación para gestión de catálogo de una librería utilizando MySQL.
-- Diseño de CRUD según especificaciones oficiales de Spring Boot.
-- Implementación con Java, Spring Boot y Maven.
-- Testeado con Postman.
-- [Código disponible en GitHub](https://github.com/marco-jaram/LibroCrud2)
-- [Video demostrativo en YouTube](https://www.youtube.com/watch?v=PYRhJyg3I8w)
----
-
-### Desarrollador Web Site estático.
-**Octubre 2022 - Febrero 2023**
-
-- Desarrollo de sitio web estático usando HTML, CSS, JS y ASTRO.
-- [Sitio web](https://lavidaesmedicina.com/)
----
-### Desarrollador Web Site estático. 
-**Enero 2019 - Enero 2020**
-
-- Desarrollo de sitios web estáticos con HTML5, CSS y JavaScript.
-- [Sitio web](https://webllocalapp.netlify.app/)
-
 
 ## 👨‍🎓 Estudios
 - **Ingeniería en Software**
@@ -71,10 +73,10 @@ Soy Ingeniero de Software con un fuerte interés en el desarrollo BackEnd en Jav
 
 ## 🥷 Habilidades
 
-- **Lenguajes de Programación:** Java, JavaScript
+- **Lenguajes de Programación:** Java,PHP JavaScript
 - **Lenguajes de Marcado y Estilo:** HTML5, CSS3
-- **Frameworks y Tecnologías:** Spring Boot, Docker, ASTRO, GIT
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+- **Frameworks y Tecnologías:** Spring Boot, Laravel, Docker, ASTRO, GIT
+- **Bases de Datos:** MySQL, PostgreSQL
 
 
 ## 🫶 Idiomas
