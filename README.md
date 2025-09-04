@@ -31,8 +31,10 @@ Java 17 · Spring Boot 3 · Angular 17 · PostgreSQL · Spring Security · JWT �
 **🔗 Links:**  
 - 🌐 [Página del Proyecto]  
 - 🎥 [Video]  
-- 💻 [GitHub]  
+- 💻 [GitHub]
+  
 
+---
 
 ### Control de Finanzas Personales 🧾💰
 
@@ -51,7 +53,7 @@ No necesita internet ni instalación complicada: corre localmente desde tu naveg
 - 🔗 [Ver repositorio en GitHub](https://github.com/marco-jaram/ControlFinanzasPersonales)
 - 💾 [Descargar instalador .exe para Windows](https://github.com/marco-jaram/ControlFinanzasPersonaslesInstalador/releases/tag/v1.0.0)
 
-
+---
 
 ### WebApp para Gestión de Leads CRM diseñada para facilitar el manejo eficiente de prospectos y conversiones.
 
@@ -60,6 +62,8 @@ No necesita internet ni instalación complicada: corre localmente desde tu naveg
 - [Código disponible en GitHub](https://github.com/tu-enlace-aqui)  
 - [Video muestra en YouTube](https://youtu.be/tu-video-aqui)
 
+
+---
 
 ### Aplicación de gestión de clientes CRM diseñada para ayudar a administrar la información de los pacientes y sus visitas de manera eficiente.
 
