@@ -15,6 +15,25 @@ Busco seguir creando herramientas que realmente sirvan y reflejen un alto nivel 
 
 ## 🤖 Ultimos proyectos
 
+# 🚀 CotizaLink (SaaS) - 2025  
+
+**📄 Descripción:**  
+Plataforma **SaaS full-stack** para la creación y gestión de cotizaciones.  
+Desarrollada como **SPA** con *Angular 17* y una **API RESTful** segura con *Spring Boot 3*.  
+Incluye:  
+- 🔐 Autenticación **JWT**  
+- 🔑 Integración con **Google OAuth2**  
+- 💳 Procesamiento de pagos con **Stripe**  
+
+**🛠️ Tecnologías:**  
+Java 17 · Spring Boot 3 · Angular 17 · PostgreSQL · Spring Security · JWT · Stripe API  
+
+**🔗 Links:**  
+- 🌐 [Página del Proyecto]  
+- 🎥 [Video]  
+- 💻 [GitHub]  
+
+
 ### Control de Finanzas Personales 🧾💰
 
 Una herramienta sencilla para llevar el registro de tus ingresos y egresos desde tu PC.
